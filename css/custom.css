@@ -18,10 +18,33 @@ IMG.displayed {
       background: rgba(255, 255, 255, 0.5);
   }
 
-.whiteline {
-  color: white;
+hr.greenline {
+  border-top: 1px solid rgba(37,185,154, 1);
 }
 
-.redheart {
+class.red {
   color: red;
+}
+
+div.center {
+  text-align: center;
+}
+
+
+/* Typography --*/
+
+h1, h5 {
+  color: rgba(37,185,154, 1);
+}
+
+
+/* Links
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+a {
+  color: rgba(37,185,154, 1);
+  text-decoration: underline;
+}
+a:hover {
+  color: rgba(37,185,154, .75);
+  text-decoration: underline;
 }

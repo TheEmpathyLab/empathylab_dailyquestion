@@ -125,7 +125,7 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: 'Open Sans', sans-serif;
-  color: #ffffff; }
+  color: black; }
 
 
 /* Typography
@@ -155,18 +155,15 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 
 p {
   margin-top: 0;
-  color: white;
 }
 
 
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: rgba(255, 255, 255, 1);
   text-decoration: underline;
 }
 a:hover {
-  color: rgba(255, 255, 255, .75);
   text-decoration: underline;
 }
 
