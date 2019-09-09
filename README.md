@@ -1,2 +1,2 @@
-# empathylab_splash
-Simple page for Empathy Lab
+# Daily Question by Empathy Lab
+Simple page for Empathy Lab's daily questions. 
