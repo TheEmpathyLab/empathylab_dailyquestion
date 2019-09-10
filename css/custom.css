@@ -9,12 +9,12 @@ IMG.displayed {
   }
 
   ::-moz-selection { /* Code for Firefox */
-      color: black;
+      color: pink;
       background: rgba(255, 255, 255, 0.5);
   }
 
   ::selection {
-      color: black;
+      color: pink;
       background: rgba(255, 255, 255, 0.5);
   }
 
